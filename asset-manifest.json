@@ -1,22 +1,22 @@
 {
   "files": {
-    "app.js": "/camera/static/js/app.b872507e.chunk.js",
-    "app.js.map": "/camera/static/js/app.b872507e.chunk.js.map",
+    "app.js": "/camera/static/js/app.c3137bcb.chunk.js",
+    "app.js.map": "/camera/static/js/app.c3137bcb.chunk.js.map",
     "runtime~app.js": "/camera/static/js/runtime~app.063f1a1f.js",
     "runtime~app.js.map": "/camera/static/js/runtime~app.063f1a1f.js.map",
-    "static/js/2.75731662.chunk.js": "/camera/static/js/2.75731662.chunk.js",
-    "static/js/2.75731662.chunk.js.map": "/camera/static/js/2.75731662.chunk.js.map",
+    "static/js/2.e6960819.chunk.js": "/camera/static/js/2.e6960819.chunk.js",
+    "static/js/2.e6960819.chunk.js.map": "/camera/static/js/2.e6960819.chunk.js.map",
     "favicon-16.png": "/camera/favicon-16.png",
     "favicon-32.png": "/camera/favicon-32.png",
     "favicon.ico": "/camera/favicon.ico",
     "index.html": "/camera/index.html",
     "manifest.json": "/camera/manifest.json",
     "serve.json": "/camera/serve.json",
-    "static/js/2.75731662.chunk.js.LICENSE.txt": "/camera/static/js/2.75731662.chunk.js.LICENSE.txt"
+    "static/js/2.e6960819.chunk.js.LICENSE.txt": "/camera/static/js/2.e6960819.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime~app.063f1a1f.js",
-    "static/js/2.75731662.chunk.js",
-    "static/js/app.b872507e.chunk.js"
+    "static/js/2.e6960819.chunk.js",
+    "static/js/app.c3137bcb.chunk.js"
   ]
 }
