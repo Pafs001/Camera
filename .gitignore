@@ -1,0 +1,30 @@
+# Node Js
+node_modules/
+npm-debug.log
+package-lock.json
+*lock.json
+
+# Yarn
+yarn-debug.log
+yarn-error.log
+
+# Android
+buck-out/
+\.buckd/
+android/app/libs
+android/keystores/debug.keystores
+android/*.hprof
+
+.expo/
+dist/
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+
+# macOS
+.DS_Store
