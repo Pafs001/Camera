@@ -1,7 +1,7 @@
 {
   "files": {
-    "app.js": "/camera/static/js/app.ce9a6860.chunk.js",
-    "app.js.map": "/camera/static/js/app.ce9a6860.chunk.js.map",
+    "app.js": "/camera/static/js/app.b872507e.chunk.js",
+    "app.js.map": "/camera/static/js/app.b872507e.chunk.js.map",
     "runtime~app.js": "/camera/static/js/runtime~app.063f1a1f.js",
     "runtime~app.js.map": "/camera/static/js/runtime~app.063f1a1f.js.map",
     "static/js/2.75731662.chunk.js": "/camera/static/js/2.75731662.chunk.js",
@@ -17,6 +17,6 @@
   "entrypoints": [
     "static/js/runtime~app.063f1a1f.js",
     "static/js/2.75731662.chunk.js",
-    "static/js/app.ce9a6860.chunk.js"
+    "static/js/app.b872507e.chunk.js"
   ]
 }
